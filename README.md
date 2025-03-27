@@ -1,4 +1,4 @@
-PassManager - A Secure Password Manager
+#PassManager - A Secure Password Manager
 
 PassManager is a simple and secure password manager built using the MERN stack. It allows users to store, manage, and retrieve their credentials securely.
 
